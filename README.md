@@ -18,7 +18,8 @@ Saída
 O resultado deve ser apresentado com uma casa decimal.
 
 
-Desafio do triangulo Kotlin resolvido !
+Desafio do triangulo Kotlin resolvido
+
 
 fun main(args: Array<String>) {
 
@@ -34,7 +35,7 @@ fun main(args: Array<String>) {
   val r = ((a + b) * c / 2)
 
   
-  if (a < (b + c) && b < (a + c) && c < (a + b)) println("Perimetro = $p")
+  if (a < (b + c) && b < (a + c) && c < (a + b)) println("Perimetro = $p") <br>
   else println("Area = $r")
 }
                                           
